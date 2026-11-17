@@ -1,0 +1,10 @@
+.venv/
+backend/.venv/
+backend/.env
+backend/media/
+backend/staticfiles/
+frontend/.env
+frontend/node_modules/
+frontend/dist/
+**/__pycache__/
+*.py[cod]

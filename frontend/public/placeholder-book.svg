@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#e7eee8"/>
+  <rect x="220" y="92" width="200" height="296" rx="14" fill="#153d35"/>
+  <path d="M265 151h110M265 185h110M265 219h82M265 282h110M265 316h82" stroke="#f6f1e7" stroke-width="12" stroke-linecap="round"/>
+  <text x="320" y="430" text-anchor="middle" fill="#52665d" font-family="Arial,sans-serif" font-size="24">BookLoop</text>
+</svg>

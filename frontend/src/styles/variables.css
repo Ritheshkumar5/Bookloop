@@ -1,0 +1,21 @@
+:root {
+  font-family: "DM Sans", "Segoe UI", Arial, sans-serif;
+  color: #20342d;
+  background: #f7f8f4;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  --green: #153d35;
+  --green-2: #245c4e;
+  --sage: #dce8dd;
+  --cream: #f1ecdf;
+  --paper: #fffefa;
+  --gold: #d89c45;
+  --ink: #20342d;
+  --muted: #718078;
+  --line: #e2e8e0;
+  --danger: #b94a3f;
+  --success: #287353;
+  --shadow: 0 12px 32px rgba(30, 58, 46, .08);
+  --radius: 16px;
+  --container: 1220px;
+}
